@@ -1,3 +1,8 @@
 {
-    "name": "acmer1183/hello"
+    "name": "acmer1183/hello",
+    "autoload": {
+        "psr-4": {
+            "hello": "src/"
+        }
+    }
 }
