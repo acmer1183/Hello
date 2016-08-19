@@ -2,7 +2,8 @@
     "name": "acmer1183/hello",
     "description": "this test composer",
     "version": "1.0.0",
-    "type": "metapackage",
+    "type": "library",
+    "license": "proprietary",
     "require": {
         "php": ">=5.3"
     }
